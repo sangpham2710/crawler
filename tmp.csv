@@ -1,0 +1,509 @@
+id,name,listening,reading,writing,speaking,overall
+1,Lê Sử Triều An,3.5,3.5,2.5,4.5,3.5
+2,Nguyễn Ngọc An,7,6.5,7,6.5,7
+3,Huỳnh Gia An,6,6.5,6.5,6,6.5
+4,Nguyễn Khánh An,6,6.5,5.5,6.5,6
+5,Nguyễn Văn Bảo An,4,4.5,3,5,4
+6,Dương Trần Bình An,4.5,6.5,3.5,5,5
+7,Trần Lê Vân An,4.5,4.5,5,6,5
+8,Lê Thành Hoàng An,5,4.5,5,6.5,5.5
+9,Bùi Khánh An,5,5.5,5,5,5
+10,Nguyễn Lê Phước An,5.5,5,2,5.5,4.5
+11,Nguyễn Ngọc Hữu Ân,2.5,4,1,2.5,2.5
+12,Trương Gia Ân,3,3,1,1,2
+13,Nguyễn Thế Hồng Ân,5,5.5,5.5,5.5,5.5
+14,Vương Quốc Ấn,5.5,6.5,6,6,6
+15,Hồ Ngọc Anh,6,6.5,5,6.5,6
+16,Nguyễn Ngọc Vân Anh,4.5,5,3.5,5,4.5
+17,Nguyễn Hải Anh,5,6.5,4,6,5.5
+18,Trần Mỹ Anh,5,6,4,7.5,5.5
+19,Trần Tuấn Anh,5.5,3.5,1,7,4.5
+20,Nguyễn Ngọc Quế Anh,7,8,5,6.5,6.5
+21,Tôn Nữ Quỳnh Anh,6,6.5,3.5,6.5,5.5
+22,Phạm Mai Anh,5,4,2.5,5.5,4.5
+23,Trần Tuấn Anh,3.5,4.5,3,5.5,4
+24,Trần Nguyễn Nam Anh,4.5,4.5,3,6,4.5
+25,Quách Tú Anh,4,4.5,3,6,4.5
+26,Bùi Thị Hoài Anh,3.5,5,2.5,6,4.5
+27,Đoàn Nguyễn Duy Anh,4,4,1,#N/A,#N/A
+28,Phạm Kim Ảnh,4,4.5,4.5,5,4.5
+29,Hoàng Thị Hải Băng,4,4,4.5,5,4.5
+30,Châu Chấn Bằng,4,4,2,4,3.5
+31,Nguyễn Hoàng Gia Bảo,7,7,5.5,8,7
+32,Dương Danh Gia Bảo,6,7,4.5,4.5,5.5
+33,Huỳnh Kim Thái Bảo,5,4.5,3.5,6.5,5
+34,Lê Gia Bảo,2.5,3,1,3,2.5
+35,Nguyễn Hòa Bình,5.5,5.5,3.5,6,5
+36,Ngô Quốc Bình,3.5,2,1,6.5,3.5
+37,Đặng Thanh Bình,4,4.5,3,3,3.5
+38,Lê Đình Bình,#N/A,#N/A,#N/A,#N/A,#N/A
+39,Lê Công Bình,5.5,5.5,5.5,7,6
+40,Lê Thanh Bình,#N/A,#N/A,#N/A,#N/A,#N/A
+41,Nguyễn Hữu Cảnh,4,4.5,3,6.5,4.5
+42,Lê Nguyễn Bảo Châu,5.5,6.5,3.5,7.5,6
+43,Trần Lê Bảo Châu,4.5,6,5,5.5,5.5
+44,Nguyễn Minh Châu,4.5,6.5,5,6,5.5
+45,Lê Nguyễn Lan Chi,5,5.5,4,6.5,5.5
+46,Nguyễn Ngọc Uyên Chi,6,8,5,8,7
+47,Phan Thị Kim Chi,2.5,3,1,#N/A,#N/A
+48,Diệp Minh Chí,5,3,4.5,6,4.5
+49,Nguyễn Phi Công,2.5,5,4,4.5,4
+50,Trần Lê Bạch Cúc,5,4.5,5,5,5
+51,Lê Đức Cường,5,6,5.5,6.5,6
+52,Đậu Nguyễn Cường,4,5,4,5.5,4.5
+53,Dương Huy Cường,5,5.5,4,6.5,5.5
+54,Nguyễn Quốc Đại,5.5,4.5,4,8,5.5
+55,Phạm Huỳnh Bảo Đại,5,6,4.5,4.5,5
+56,Đinh Duy Linh Đan,5.5,6.5,4.5,6,5.5
+57,Nguyễn Minh Đăng,5.5,7.5,4.5,6.5,6
+58,Võ Nam Đăng,6.5,7.5,5,6.5,6.5
+59,Trần Minh Đăng,3.5,5,2.5,3.5,3.5
+60,Lương Trần Công Danh,6,6.5,5.5,7.5,6.5
+61,Nguyễn Duy Danh,4.5,4.5,5,6,5
+62,Tăng Tuấn Đạt,6,7.5,6,6.5,6.5
+63,Trần Nguyễn Thành Đạt,5,5.5,4.5,5.5,5
+64,Phan Trần Minh Đạt,5,5.5,4.5,5.5,5
+65,Sú Thế Đạt,5.5,5.5,6,5,5.5
+66,Nguyễn Minh Đạt,4,6.5,2.5,6,5
+67,Nguyễn Thành Đạt,5,5.5,4.5,4.5,5
+68,Dương Tấn Đạt,6.5,6.5,5,7.5,6.5
+69,Nguyễn Tấn Đạt,3,4,1.5,5,3.5
+70,Nguyễn Tiến Đạt,4,3,1.5,5.5,3.5
+71,Nguyễn Quang Đạt,5.5,6,6,6,6
+72,Nguyễn Xuân Diệp,3.5,3.5,1,#N/A,#N/A
+73,Mai Quang Định,4.5,6,7,6.5,6
+74,Nguyễn Minh Đức,6,6,5,5,5.5
+75,Ngô Nguyễn Minh Đức,4.5,5.5,5.5,7,5.5
+76,Thái Minh Đức,3.5,3.5,4.5,5,4
+77,Vũ Minh Đức,5.5,5.5,5,6.5,5.5
+78,Hoàng Tiến Đức,4,4.5,3.5,5,4.5
+79,Nguyễn Trí Đức,4,4.5,4.5,5,4.5
+80,Phạm Minh Đức,4,3.5,4,6,4.5
+81,Huỳnh Thanh Dung,3.5,5,5,5,4.5
+82,Nguyễn Hoàng Dung,3.5,5.5,1,4.5,3.5
+83,Phùng Thị Kim Dung,4,3.5,4.5,4.5,4
+84,Lại Hạ Thùy Dung,6,6,5,7,6
+85,Nguyễn Trí Dũng,5.5,4.5,5,5.5,5
+86,Nguyễn Tiến Dũng,5,5.5,5.5,5.5,5.5
+87,Lê Quốc Trí Dũng,4.5,5.5,3.5,6,5
+88,Nguyễn Quốc Dũng,3,4.5,4.5,5.5,4.5
+89,Huỳnh Gia Duy,4,6,4.5,5,5
+90,Nguyễn Lê Hoàng Duy,4,4.5,3.5,5,4.5
+91,Trần Nhật Duy,6,6.5,5,5.5,6
+92,Lê Quang Duy,4.5,5.5,5,5.5,5
+93,Nguyễn Trần Bảo Duy,6,7.5,5,#N/A,#N/A
+94,Trần Hà Duyên,4,5,1,6,4
+95,Đoàn Cao Mỹ Duyên,3.5,4,4,6,4.5
+96,Phạm Thị Thiên Duyên,5,5.5,6,6.5,6
+97,Đặng Hoàng Gia,5,5.5,6,5.5,5.5
+98,Nguyễn San Hà,5.5,3.5,3.5,6.5,5
+99,Nguyễn Võ Trúc Hà,4,6,6,7,6
+100,Lê Thanh Hà,6,7,6,7,6.5
+101,Trần Phúc Hải,7,5.5,5.5,5.5,6
+102,La Hoàng Thiên Hải,5.5,5.5,4,5.5,5
+103,Liaw Gia Hân,2.5,4.5,2.5,#N/A,#N/A
+104,Hồng Minh Kỳ,5,5.5,5,6,5.5
+105,Võ Nguyễn Ngọc Hân,5,5.5,5.5,6,5.5
+106,Nguyễn Ngọc Hân,6.5,6,4,6,5.5
+107,Mai Nguyễn Ngọc Hân,6,6.5,4.5,7.5,6
+108,Phạm Thị Ngọc Hân,4,3.5,1.5,#N/A,#N/A
+109,Nguyễn Ngọc Bích Hằng,2.5,3.5,2,#N/A,#N/A
+110,Phan Minh Hằng,4.5,5.5,5.5,6,5.5
+111,Nguyễn Hồng Hạnh,4.5,6,5.5,6,5.5
+112,Ôn Tuấn Hào,4,3,3,#N/A,#N/A
+113,Nguyễn Ý Hảo,5,5.5,4,5.5,5
+114,Trần Minh Hiền,6,6.5,6,7,6.5
+115,Lê Thúy Hiền,5,6.5,5,5.5,5.5
+116,Nguyễn Ngọc Hiền,#N/A,#N/A,#N/A,#N/A,#N/A
+117,Hoàng Minh Hiếu,3.5,4.5,1.5,5,3.5
+118,Nguyễn Duy Hiếu,4.5,7.5,4.5,4.5,5.5
+119,Nguyễn Minh Hiếu,4.5,3,4,4.5,4
+120,Lê Công Hiếu,#N/A,#N/A,#N/A,6,#N/A
+121,Trương Công Gia Hiếu,5,4,5.5,6.5,5.5
+122,Trần Gia Hòa,4.5,5.5,5.5,6,5.5
+123,Nhâm Trương Huy Hoàng,5,5.5,5,6,5.5
+124,Trần Lê Hoàng,3.5,4,2,5,3.5
+125,Huỳnh Thư Huệ,#N/A,#N/A,#N/A,6,#N/A
+126,Hoàng Anh Hùng,5,4,4,5,4.5
+127,Nguyễn Chí Gia Hưng,6,7.5,5,6.5,6.5
+128,Lê Phục Hưng,2,3,3.5,6.5,4
+129,Ngô Minh Hưng,5,6,5,6.5,5.5
+130,Thái Gia Hưng,5.5,5.5,4.5,6,5.5
+131,Trần Minh Hương,4.5,6,5.5,6,5.5
+132,Nguyễn Xuân Hương,5,4.5,5.5,7,5.5
+133,Phạm Lê Mỹ Hường,3,4,4,6,4.5
+134,Nguyễn Văn Huy,4.5,5.5,4.5,5.5,5
+135,Đặng Minh Huy,4.5,5,4.5,6.5,5
+136,Phạm Gia Huy,4,4,4,5.5,4.5
+137,Phan Lê Quốc Huy,3.5,3.5,2,4.5,3.5
+138,Nguyễn Đức Bảo Huy,4,3.5,4,4,4
+139,Trương Quốc Huy,3.5,5,3,5.5,4.5
+140,Lê Huy,6,5.5,6,6,6
+141,Đinh Quốc Huy,2.5,3.5,1,5,3
+142,Hồ Tăng Huy,4.5,5.5,3.5,5.5,5
+143,Hoàng Phương Huyền,5,5.5,5,6.5,5.5
+144,Lê Tân Kha,4.5,4.5,4.5,#N/A,#N/A
+145,Ngô Duy Khang,6,5.5,5,4.5,5.5
+146,Nghiêm Gia Khang,5.5,6.5,5.5,7,6
+147,Lao Vĩnh Khang,5,4.5,4.5,6.5,5
+148,Võ Như Khang,4,5,2,3,3.5
+149,Nguyễn Bảo Khang,6.5,4,5,8.5,6
+150,Từ Bửu Khang,3.5,5.5,3,#N/A,#N/A
+151,Nguyễn Vũ Minh Khang,6,7,4.5,7,6
+152,Phan Gia Tấn Khang,6.5,6,4,6.5,6
+153,Trần Gia Khang,2.5,5.5,2.5,5.5,4
+154,Nguyễn Phan Quốc Khanh,4.5,5,3,5,4.5
+155,Nguyễn Ngọc Uyên Khanh,5.5,5,3.5,5,5
+156,Ngô Ngọc Hà Khanh,4,4.5,3,6,4.5
+157,Hồ Ngọc Vân Khanh,2,4,1,0,2
+158,Hồng Nguyễn Vân Khanh,3,4.5,2.5,6,4
+159,Trần Nhân Khánh,6,5.5,3.5,6,5.5
+160,Nguyễn Vũ Khánh,4.5,5.5,4,6,5
+161,Trần Lê Quốc Khánh,4,5.5,3.5,5,4.5
+162,Nguyễn Thị Vân Khánh,3.5,3,1,4.5,3
+163,Nguyễn Lê Khánh,4,2,3.5,5,3.5
+164,Phan Ngọc Lam Khê,6,5,5.5,6.5,6
+165,Nguyễn Hà Tuấn Khoa,5.5,6,5,7.5,6
+166,Trần Minh Khoa,5,4.5,3,5.5,4.5
+167,Nguyễn Trần Đăng Khoa,5.5,6.5,5,7.5,6
+168,Đoàn Nguyễn Minh Khoa,4.5,4,3,6,4.5
+169,Nguyễn Tấn Khoa,3,3.5,1,4,3
+170,Nguyễn Trung Khoa,4,4.5,2.5,6,4.5
+171,Lê Minh Khôi,6.5,7,4.5,7.5,6.5
+172,Nguyễn Trần Khôi,6,7.5,4.5,7.5,6.5
+173,Trần Minh Khôi,4,5.5,3,4.5,4.5
+174,Lê Minh Khôi,6,4.5,2.5,6,5
+175,Đinh Tuấn Khôi,#N/A,#N/A,#N/A,#N/A,#N/A
+176,Ngô Minh Khôi,3.5,4.5,3.5,5,4
+177,Mai Đình Khôi,6.5,7.5,4.5,6.5,6.5
+178,Từ Đăng Khôi,4.5,3,2,5.5,4
+179,Đào Minh Khôi,5.5,6,5,7.5,6
+180,Tô Quốc Kiện,6,6,3,7.5,5.5
+181,Trương Minh Kiện,3.5,3.5,1.5,#N/A,#N/A
+182,Nguyễn Lê Gia Kiệt,4.5,3,1.5,5.5,3.5
+183,Phan Huỳnh Tuấn Kiệt,#N/A,#N/A,#N/A,#N/A,#N/A
+184,Nguyễn Huỳnh Thiên Kim,5.5,5.5,4,6,5.5
+185,Đặng Y Kỳ,#N/A,#N/A,#N/A,#N/A,#N/A
+186,Mạch Siêu Kỳ,4,3,1.5,4.5,3.5
+187,Võ Trương Nhật Lam,5,6.5,3.5,6.5,5.5
+188,Lê Vũ Ngân Lam,4,4.5,2.5,6,4.5
+189,Trương Nguyễn Nhật Lam,4.5,4.5,1.5,4.5,4
+190,Nguyễn Vũ Thanh Lâm,#N/A,#N/A,#N/A,#N/A,#N/A
+191,Trần Thanh Lan,3.5,4,3,5,4
+192,Vũ Lưu Hoàng Lan,5,5.5,2.5,5,4.5
+193,Lê Thị Bích Liên,4.5,4,1,5.5,4
+194,Hoàng Nguyễn Mỹ Linh,3.5,4,1.5,4.5,3.5
+195,Trần Gia Linh,5,3,1.5,5.5,4
+196,Huỳnh Tùng Linh,3.5,5,1,#N/A,#N/A
+197,Phan Thùy Linh,#N/A,#N/A,#N/A,#N/A,#N/A
+198,Bùi Ngọc Phương Linh,5,6.5,5,8,6
+199,Lương Thụy Hồng Loan,3.5,4,3,4,3.5
+200,Nguyễn Hữu Lộc,4,3.5,1,4.5,3.5
+201,Nguyễn Đình Quý Lộc,6,5.5,4,6.5,5.5
+202,Nguyễn Thành Long,3.5,5.5,1,2.5,3
+203,Đỗ Gia Long,4.5,4,#N/A,#N/A,#N/A
+204,Hoàng Hải Long,5.5,3,4.5,5.5,4.5
+205,Nguyễn Thế Luân,3.5,4.5,1.5,4,3.5
+206,Nguyễn Thanh Thảo Ly,6,5,2,6.5,5
+207,Lu Khải Ly,4.5,5.5,4.5,6.5,5.5
+208,Nguyễn Ngọc Mai,4.5,5.5,4,6,5
+209,Hồ Ngọc Mai,3.5,5,3,#N/A,#N/A
+210,Nguyễn Thanh Mai,5,6.5,3.5,7,5.5
+211,Lâm Vũ Gia Mẫn,5,5.5,3.5,6.5,5
+212,Hứa Huệ Mẫn,4.5,6.5,4,6,5.5
+213,Huỳnh Minh Mẫn,4,4,2.5,5.5,4
+214,Bùi Đức Minh,5,5.5,3,6,5
+215,Lê Nhật Minh,6,7,5,7,6.5
+216,Nguyễn Ngọc Minh,5.5,5.5,3,8,5.5
+217,Lê Đinh Anh Minh,4,4,3.5,3.5,4
+218,Lê Tuấn Minh,3.5,6.5,3.5,5,4.5
+219,Phan Hoàng Bảo Minh,#N/A,#N/A,#N/A,#N/A,#N/A
+220,Nguyễn Gia Minh,3.5,4,3,5.5,4
+221,Đỗ Nguyễn Bình Minh,4,5,1.5,5.5,4
+222,Lê Bá Nhật Minh,#N/A,#N/A,#N/A,#N/A,#N/A
+223,Phạm Quốc Minh,4.5,5.5,3.5,#N/A,#N/A
+224,Hàng Gia Minh,4,3,1.5,5.5,3.5
+225,Trần Ngọc Minh,4.5,5.5,2.5,7,5
+226,Lê Quang Minh,6,7,4.5,6,6
+227,Tống Thụy Khánh Minh,6,5.5,4,5,5
+228,Lâm Yến My,5.5,6,3.5,6,5.5
+229,Nguyễn Ngọc Thảo My,5.5,4.5,4.5,5.5,5
+230,Bùi Châu Lam My,5,5.5,4.5,6,5.5
+231,Lê Quý Hoàn Mỹ,4,4,3.5,5.5,4.5
+232,Trần Hoàng Mỹ,5.5,6,3,6.5,5.5
+233,Trương Hải Nam,6.5,6,4,6.5,6
+234,Phan Vũ Hoàng Nam,5,5.5,3,7,5
+235,Lương Thanh Nam,#N/A,#N/A,#N/A,5,#N/A
+236,Trần Sơn Nam,5.5,6.5,4,7,6
+237,Nguyễn Như Hoài Nam,6.5,6.5,3,7.5,6
+238,Nguyễn Nhật Nam,4,4.5,2,4.5,4
+239,Trương Gia Kỳ Nam,3.5,5.5,1.5,5.5,4
+240,Phan Nhật Nam,5,5.5,4.5,8,6
+241,Nguyễn Hoàng Thiên Nga,5,5.5,4,6,5
+242,Lê Nguyễn Thanh Ngân,3,3,3,5.5,3.5
+243,Đặng Tường Kim Ngân,3.5,4.5,2,6.5,4
+244,Ngô Kim Ngân,4,4,3,5,4
+245,Lê Thu Ngân,4,4.5,3,4.5,4
+246,Trần Quỳnh Bảo Ngân,5.5,6,4.5,7,6
+247,Mai Kim Ngân,5,5,3.5,6,5
+248,Phạm Hồng Ngân,3,4,2,4,3.5
+249,Nguyễn Mỹ Chiêu Nghi,6,6.5,3,6.5,5.5
+250,Huỳnh Tuyết Nghi,3,1,1.5,#N/A,#N/A
+251,Nguyễn Lê Phương Nghi,3,5.5,5,5.5,5
+252,Phan Phương Nghi,2.5,4,3,5,3.5
+253,Trần Trịnh Vương Nghi,#N/A,#N/A,#N/A,6.5,#N/A
+254,Trần Diễm Thảo Nghi,4,6,2.5,5.5,4.5
+255,Lê Hữu Nghĩa,#N/A,#N/A,#N/A,#N/A,#N/A
+256,Đồng Minh Nghĩa,5,5.5,2,5,4.5
+257,Cao Trung Nghĩa,#N/A,#N/A,#N/A,6,#N/A
+258,Bùi Minh Thanh Ngọc,4,5.5,1,4.5,4
+259,Tô Tuyết Ngọc,2.5,6.5,4,5.5,4.5
+260,Đỗ Thị Bảo Ngọc,#N/A,#N/A,#N/A,2,#N/A
+261,Trần Phan Bảo Ngọc,4.5,5.5,4,6,5
+262,Nguyễn Tuấn Ngọc,3.5,6,2.5,3,4
+263,Trần Kim Nguyên,#N/A,#N/A,#N/A,6,#N/A
+264,Nguyễn Khôi Nguyên,2.5,3,2,5,3
+265,Vũ Hoàng Nguyên,4.5,6,4.5,6,5.5
+266,Nguyễn Lê Khánh Nguyên,1,1,1,3.5,1.5
+267,Dương Tân Nguyên,5,6,4,5,5
+268,Đặng Phúc Nguyên,4.5,5,3.5,6,5
+269,Mai Lê Nguyên,4.5,6.5,4,6.5,5.5
+270,Nguyễn Tố Nguyên,#N/A,#N/A,#N/A,4.5,#N/A
+271,Phạm Minh Nguyệt,#N/A,#N/A,#N/A,#N/A,#N/A
+272,Nguyễn Trần Trọng Nhân,7,8,6.5,8,7.5
+273,Trương Thanh Hiếu Nhân,#N/A,#N/A,#N/A,6.5,#N/A
+274,Dương Trọng Nhân,3.5,5,1,6.5,4
+275,Đặng Dương Minh Nhật,0,5.5,1,5,3
+276,Nguyễn Huỳnh Long Nhi,5.5,6.5,5,5,5.5
+277,Đinh Huỳnh Tuyết Nhi,4.5,5.5,4.5,6,5
+278,Trần Thị Yến Nhi,4,4.5,5.5,6.5,5
+279,Vũ Ngô Đan Nhi,6,7,5.5,6,6
+280,Nguyễn Lê Uyển Nhi,5,7,7,7,6.5
+281,Châu Phạm Yên Nhi,#N/A,#N/A,#N/A,#N/A,#N/A
+282,Tạ Khánh Linh Nhi,4,4.5,1,#N/A,#N/A
+283,Nguyễn Khả Ân Nhi,3,4,1,3.5,3
+284,Nguyễn Ngọc Hoàng Nhi,3,2.5,1,2,2
+285,Nguyễn Nhi,3,6.5,2,5.5,4.5
+286,Nguyễn Huỳnh Châu Nhi,5,5.5,3.5,6,5
+287,Ngô Thị Ý Nhi,#N/A,#N/A,#N/A,#N/A,#N/A
+288,Huỳnh Hoàng Thanh Như,5,5.5,5,6,5.5
+289,Lâm Thảo Như,5.5,6,7,7,6.5
+290,Vũ Khánh Như,4.5,4.5,6,8,6
+291,Nguyễn Ngọc Huỳnh Như,3.5,4.5,6,5.5,5
+292,Nguyễn Ngọc Khánh Như,5,5.5,6.5,7,6
+293,Lê Minh Như,3.5,3,6,5,4.5
+294,Nguyễn Quỳnh Như,5,5.5,3,4,4.5
+295,Nguyễn Minh Nhựt,3.5,4,5,5.5,4.5
+296,Lê Thị Diệu Oanh,5.5,6.5,4.5,6,5.5
+297,Tsu Minh Phát,4,6.5,5.5,5,5.5
+298,Phạm Thịnh Phát,6,7.5,6.5,7,7
+299,Phan Thiện Phát,3,3.5,4,3,3.5
+300,Nguyễn Trường Phát,5.5,6,5.5,6,6
+301,Vương Quốc Phong,5.5,6.5,5,7,6
+302,Cao Thanh Phong,5,5.5,4,5.5,5
+303,Huỳnh Lê An Phú,6,7.5,5,5,6
+304,Lưu Vĩnh Phú,3,4.5,2.5,5.5,4
+305,Hàng Phú,4.5,5.5,3.5,7.5,5.5
+306,Trương Tấn Phú,3,5,3,5.5,4
+307,Nguyễn Hoàng Phúc,#N/A,#N/A,#N/A,#N/A,#N/A
+308,Đoàn Trần Thiên Phúc,6.5,8.5,5,5.5,6.5
+309,Đỗ Hồng Phúc,4.5,4,2.5,5,4
+310,Nguyễn Hoàng Phúc,5.5,7.5,1,6,5
+311,Trần Minh Phúc,3.5,5.5,2,5,4
+312,Phạm Hữu Phúc,5,5.5,3.5,6,5
+313,Nguyễn Hữu Phúc,5,5.5,3,4.5,4.5
+314,Nguyễn Thy Phương,#N/A,#N/A,#N/A,6,#N/A
+315,Bùi Lê Minh Phương,2.5,5,3,4,3.5
+316,Đỗ Mai Phương,#N/A,#N/A,#N/A,#N/A,#N/A
+317,Nguyễn Phan Thanh Phương,3,5.5,4.5,4,4.5
+318,Nguyễn Lê Khánh Phương,6.5,6,6,6.5,6.5
+319,Lê Nguyễn Minh Phương,4.5,6,5.5,4.5,5
+320,Nguyễn Hiểu Phương,5.5,5.5,4.5,6.5,5.5
+321,Nguyễn Ngọc Nam Phương,4,5,4,5.5,4.5
+322,Nguyễn Đăng Kỳ Phương,5,6.5,4,8,6
+323,Nguyễn Lê Minh Phương,4,6,2,6,4.5
+324,Dương Uy Quan,4,5.5,2,5,4
+325,Nguyễn Minh Quân,#N/A,#N/A,#N/A,#N/A,#N/A
+326,Bùi Nguyễn Hoàng Quân,5.5,6,5,6.5,6
+327,Lê Thức Anh Quân,5,6,5.5,5.5,5.5
+328,Nguyễn Huỳnh Bảo Quân,5.5,6.5,6,6,6
+329,Phạm Lê Minh Quân,5,6.5,5.5,6.5,6
+330,Đinh Lê Minh Quân,#N/A,#N/A,#N/A,6,#N/A
+331,Đỗ Minh Quân,5,6.5,5,6,5.5
+332,Nguyễn Đình Quang,4.5,5.5,5,5,5
+333,Lê Nguyễn Minh Quang,5,5.5,6,6.5,6
+334,Nguyễn Hà Nhật Quang,3.5,5.5,5.5,3.5,4.5
+335,Lê Hồng Quang,5,5.5,6.5,5.5,5.5
+336,Mai Kiến Quốc,5,7.5,6.5,7,6.5
+337,Nguyễn Thị Thúy Quỳnh,4,5.5,6,6.5,5.5
+338,Nguyễn Duy Phương Quỳnh,#N/A,#N/A,#N/A,#N/A,#N/A
+339,Khúc Hải Quỳnh,4,6.5,5.5,6,5.5
+340,Hà Xuân Quỳnh,#N/A,#N/A,#N/A,#N/A,#N/A
+341,Phạm Ngọc Thúy Quỳnh,2.5,4,2.5,4.5,3.5
+342,Phạm Diễm Quỳnh,4,5.5,1,6.5,4.5
+343,Lê Thị Diễm Quỳnh,3,5.5,5,6,5
+344,Phan Quang Sang,4,6,7,6,6
+345,Phạm Văn Tấn Sang,5,6.5,7.5,6.5,6.5
+346,Trần Văn Sỹ,4,4,6,5.5,5
+347,Nguyễn Ngô Thành Tài,2,3.5,5,5,4
+348,Lê Hoàng Tài,2.5,5.5,5,5,4.5
+349,Ngô Minh Tâm,4,5.5,7,6,5.5
+350,Huỳnh Huệ Tâm,2.5,4,4.5,5,4
+351,Huỳnh Ngọc Nhã Tâm,2.5,4.5,2,1.5,2.5
+352,Nguyễn Minh Tâm,5.5,5.5,7,6.5,6
+353,Nguyễn Anh Thạch,2,5.5,1,5.5,3.5
+354,Hà Vĩnh Thái,3.5,4,4,6,4.5
+355,Đào Phú Thái,3,4,3.5,4.5,4
+356,Đào Văn Thắng,3.5,4.5,5,4.5,4.5
+357,Phạm Đức Thắng,6,6.5,6.5,7.5,6.5
+358,Võ Hoàng Thắng,2,4.5,4.5,#N/A,#N/A
+359,Nguyễn Ngọc Trang Thanh,4,6,5,5.5,5
+360,Lê Hữu Thanh,4,6,1,6,4.5
+361,Nguyễn Trúc Thanh,5,6.5,5.5,6,6
+362,Nguyễn Thị Thiên Thanh,3,4.5,5,5,4.5
+363,Nguyễn Lộc Thanh,5,6,5.5,5.5,5.5
+364,Nguyễn Đồng Thanh,4.5,5.5,4,5,5
+365,Võ Đăng Công Thành,5.5,6,7.5,7.5,6.5
+366,Thái Trần Thanh Thảo,5.5,6.5,7,6,6.5
+367,Nguyễn Thị Thanh Thảo,1,1,1,1.5,1
+368,Nguyễn Hiền Thi,5,3,5,5.5,4.5
+369,Nguyễn Minh Thi,5.5,4.5,5.5,6,5.5
+370,Lê Nguyễn Minh Thi,5.5,4.5,4,6.5,5
+371,Lâm Vân Thiên,#N/A,#N/A,#N/A,#N/A,#N/A
+372,Nguyễn Liêu Chí Thiện,6,4.5,5.5,7,6
+373,Phạm Hùng Thiện,5.5,4.5,4.5,6.5,5.5
+374,Lê Chí Thiện,6,5.5,6,6.5,6
+375,Nguyễn Quang Thiện,5.5,5,5.5,5.5,5.5
+376,Vũ Toàn Thiện,5,4,4.5,6,5
+377,Trần Phước Thịnh,7.5,6.5,7,7,7
+378,Huỳnh Châu Hưng Thịnh,5,6.5,5.5,6,6
+379,Nguyễn Thị Minh Thơ,2,3,2,4.5,3
+380,Võ Minh Anh Thư,5.5,4.5,4.5,5.5,5
+381,Hoàng Anh Thư,5.5,3.5,5,4.5,4.5
+382,Phan Ngọc Minh Thư,4.5,7,6.5,7,6.5
+383,Ngô Kim Anh Thư,5.5,5,5,5,5
+384,Nguyễn Phạm Anh Thư,4,4.5,5,6.5,5
+385,Đoàn Nguyễn Phương Thúy,4,4.5,4,#N/A,#N/A
+386,Huỳnh Thanh Thủy,5.5,6,4,6.5,5.5
+387,Lê Ngọc Khánh Thy,4,6.5,4,6.5,5.5
+388,Nguyễn Hoàng Uyên Thy,4.5,5.5,4.5,4.5,5
+389,Nguyễn Việt Anh Thy,3,4,4,4.5,4
+390,Trần Ngọc Mỹ Tiên,5,5.5,4.5,6.5,5.5
+391,Lê Ngọc Thủy Tiên,4.5,5,4.5,5.5,5
+392,Nguyễn Duy Tiến,5.5,5,5.5,6,5.5
+393,Lê Hoàng Tiến,2,2,4,5,3.5
+394,Phạm Quang Tiến,4,5.5,4.5,6,5
+395,Nguyễn Chánh Tín,4.5,6.5,4.5,4,5
+396,Lê Đức Tín,5.5,6,#N/A,#N/A,#N/A
+397,Huỳnh Nguyễn Chánh Tín,2.5,4,3.5,5.5,4
+398,Trần Châu Toại,4,6,4.5,5.5,5
+399,Nguyễn Minh Hương Trà,4.5,4.5,3,#N/A,#N/A
+400,Nguyễn Ngọc Bảo Trâm,2.5,4.5,3,5,4
+401,Phan Thị Ngọc Trâm,3.5,6,4,6,5
+402,Lê Ngọc Bảo Trâm,5,5.5,3,7.5,5.5
+403,Nguyễn Mỹ Huyền Trân,4,4.5,4,6.5,5
+404,Phạm Ngọc Bảo Trân,2,5.5,2,4.5,3.5
+405,Tạ Nguyễn Bảo Trân,#N/A,#N/A,#N/A,#N/A,#N/A
+406,Phạm Thùy Trang,5,6,1.5,5.5,4.5
+407,Nguyễn Thu Trang,4,6,4.5,6,5
+408,Nguyễn Bùi Như Trang,3.5,6,4,#N/A,#N/A
+409,Nguyễn Lê Quỳnh Trang,3,5,3.5,5,4
+410,Ngô Huỳnh Thanh Trang,2.5,4.5,4.5,#N/A,#N/A
+411,Nguyễn Thúy Mỹ Trang,0,3,1,2.5,1.5
+412,Trần Minh Trang,2,3,4,4,3.5
+413,Đỗ Quốc Trí,5.5,5.5,5,6.5,5.5
+414,Nguyễn Phạm Minh Trí,#N/A,#N/A,#N/A,#N/A,#N/A
+415,Nguyễn Minh Trí,5,6.5,5,4.5,5.5
+416,Phạm Minh Triết,5.5,6.5,4.5,8,6
+417,Nguyễn Minh Triết,5.5,7,5.5,7.5,6.5
+418,Nguyễn Ngọc Phương Trinh,4,3.5,1.5,5,3.5
+419,Nguyễn Thị Thanh Trúc,#N/A,#N/A,#N/A,#N/A,#N/A
+420,Lê Vũ Ngân Trúc,5,5.5,5.5,5,5.5
+421,Võ Lê Thanh Trúc,3,3.5,1,3.5,3
+422,Nguyễn Ngọc Thanh Trúc,3,5,3.5,4.5,4
+423,Nguyễn Hoài Trung,0,6,1,4,3
+424,Lê Trần Minh Trung,4.5,6,4,6,5
+425,Võ Quang Trường,#N/A,#N/A,#N/A,#N/A,#N/A
+426,Lê Hoàng Kim Tú,5,6.5,5,5.5,5.5
+427,Tống Phương Mỹ Tú,6,6.5,6.5,7.5,6.5
+428,Châu Hoàng Tú,#N/A,#N/A,#N/A,5,#N/A
+429,Chu Thế Tùng,5,6,3.5,6.5,5.5
+430,Phạm Duy Tùng,#N/A,#N/A,#N/A,6.5,#N/A
+431,Hồ Trọng Tường,#N/A,#N/A,#N/A,#N/A,#N/A
+432,Tạ Thị Thanh Tuyền,3,4.5,4.5,5,4.5
+433,Văn Như Tuyền,#N/A,#N/A,#N/A,3,#N/A
+434,Đặng Thị Tố Uyên,2.5,4,4.5,5.5,4
+435,Đặng Phương Uyên,5.5,7,5,7,6
+436,Nguyễn Nho Châu Uyên,5,5,4.5,5.5,5
+437,Lý Mỹ Uyên,4.5,6,4,6,5
+438,Đoàn Minh Uyên,5.5,6.5,4,7.5,6
+439,Trương Hoàng Phương Uyên,5.5,4.5,4,6,5
+440,Nguyễn Phương Uyên,5.5,5.5,4.5,6,5.5
+441,Nguyễn Thụy Phương Uyên,4.5,6,4,5,5
+442,Phan Thiện Văn,4,5.5,4.5,5.5,5
+443,Hồ Bùi Ngọc Vân,5,6,2.5,5.5,5
+444,Nguyễn Trần Hải Vân,6,6.5,6,6.5,6.5
+445,Huỳnh Thanh Vân,5,6,4,5.5,5
+446,Phan Hoàng Khánh Vân,3,4.5,3.5,4.5,4
+447,Huỳnh Bảo Hạnh Vi,5.5,5.5,5.5,5,5.5
+448,Trương Hoàng Việt,4,5.5,5,5.5,5
+449,Đặng Trần Vinh,3,5,2,5.5,4
+450,Hà Quyền Vương,4.5,5.5,4,6,5
+451,Trần Thanh Vy,#N/A,#N/A,#N/A,#N/A,#N/A
+452,Lê Ngọc Thảo Vy,6,6.5,5.5,5.5,6
+453,Nguyễn Tường Vy,4.5,6.5,4,7,5.5
+454,Lê Ngọc Khả Vy,5,6,4.5,7.5,6
+455,Ngô Nhật Quỳnh Vy,4.5,6,4,6,5
+456,Trần Thị Thảo Vy,3,7,4.5,6.5,5.5
+457,Nguyễn Ngọc Tường Vy,4,5,4,5.5,4.5
+458,Võ Khải Vy,4.5,5.5,4,6,5
+459,Lại Hoàng Khánh Vy,5.5,5.5,4.5,6,5.5
+460,Cao Hoài Yến Vy,4,5,4.5,6,5
+461,Nguyễn Thúy Bảo Vy,5,4.5,4,6,5
+462,Đỗ Nguyễn Khánh Vy,5,4,5,7.5,5.5
+463,Nguyễn Thảo Vy,5.5,7,5,5,5.5
+464,Tô Nhã Vy,5,6.5,4.5,5,5.5
+465,Cao Minh Vỹ,#N/A,#N/A,#N/A,6.5,#N/A
+466,Trần Thị Kim Xoàn,4.5,5.5,4,6.5,5
+467,Dương Lục Ánh Xuân,4.5,5.5,4.5,6.5,5.5
+468,Tào Cẩm Xương,4,6,5.5,5,5
+469,Lê Thoại Yên,5.5,6.5,5.5,6.5,6
+470,Vũ Đình Thi,5,6.5,5.5,6.5,6
+471,Lê Hoàng Tuấn Dương,5.5,6,5.5,8,6.5
+472,Phạm Nguyễn Hoàng Phương,4,4.5,3.5,6.5,4.5
+473,Nguyễn Bùi Hồng Ngọc,5,5,4.5,6,5
+474,Trần Tuấn Kiệt,5,5.5,4.5,8,6
+475,Nguyễn Trần Minh Phúc,5.5,5.5,4.5,5.5,5.5
+476,Nguyễn Sông Thương,5,6,4.5,6,5.5
+477,Nguyễn Hoàng Minh Châu,6.5,7.5,6.5,7,7
+478,Đinh Hồng Anh,5,6.5,4.5,6,5.5
+479,Nguyễn Anh Tuấn,4,5.5,4.5,7,5.5
+480,Trần Gia Bảo,5,5.5,4.5,6,5.5
+481,Nguyễn Hồ Cường Phát,4.5,4.5,4.5,5,4.5
+482,Lại Hữu Hoàng Long,4.5,5.5,4,6.5,5
+483,Khổng Trúc Anh Vy,4,5.5,4,5.5,5
+484,Lê Hoàng Kim Anh,5,6.5,5.5,6.5,6
+485,Văn Hồng Anh,#N/A,#N/A,#N/A,7,#N/A
+486,Dương Ngọc Đan Thanh,6,7.5,4.5,7,6.5
+487,Đặng Khánh Ngọc,4,4.5,4.5,7,5
+488,Cao Hoàng Khánh Linh,3,4.5,3.5,5.5,4
+489,Nguyễn Bá Thông,6,7.5,4.5,6.5,6
+490,Nguyễn Thị Phương Thảo,#N/A,#N/A,#N/A,6,#N/A
+491,Đậu Trần Minh Hoàng,4.5,5.5,5,4.5,5
+492,Vũ Khánh Nhi,4.5,6,6.5,6.5,6
+493,Nguyễn Anh Duy,3,6,4.5,6,5
+494,Nguyễn Thành Quân,3.5,5.5,4,6.5,5
+495,Lê Nhi,6,6.5,5,7.5,6.5
+496,Hoàng Khánh Long,5,5.5,4.5,6.5,5.5
+497,Nguyễn Ngọc Trâm Anh,3,5,5.5,5.5,5
+498,Dương Bảo Lâm,4,4.5,4.5,5.5,4.5
+499,Nguyễn Trương Mai Phương,3.5,4.5,3.5,5.5,4.5
+500,Lê Dương Hà Tiên,4.5,4,3.5,4.5,4
+501,Nguyễn Thanh Bình,4,4,4,5,4.5
+502,Lê Minh Trang,3.5,5,4,5.5,4.5
+503,Huỳnh Thanh Hoàng Vy,4.5,5.5,3,7,5
+504,Châu Chí Hiếu,4,5.5,4,6.5,5
+505,Đỗ Ngọc Nam Phương,#N/A,#N/A,#N/A,#N/A,#N/A
+506,Trần Nguyễn Thanh Vy,5.5,5.5,5.5,7.5,6
+507,Phan Gia Bảo,5.5,5,3.5,7.5,5.5
+508,Phan Gia Bảo,5.5,5,3.5,7.5,5.5
